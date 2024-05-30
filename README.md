@@ -1,2 +1,4 @@
 # practice_exercise
-My first repository on Github
+My first repository on GitHub
+
+yay!
